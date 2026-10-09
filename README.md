@@ -6,6 +6,13 @@ Nivult is a maintained index, not a scraper. We read job postings directly from 
 
 Where other job APIs scrape job boards or recycle stale aggregators, every Nivult record comes from the employer's own page. A posting is marked closed only when it disappears at the source.
 
+### 🌍 The Index Scale
+Our live infrastructure continuously tracks and updates:
+*   **3,896,088** active job postings
+*   **69,625** companies hiring now
+*   **245** countries covered
+*   **106,034** new postings processed daily
+
 ### 🛠 What we provide
 - **Live job postings:** Title, full text, location, seniority, remote policy, employment type, and extracted technologies.
 - **Company profiles:** Tech stack, industry, size band, and 30-day hiring pace.
