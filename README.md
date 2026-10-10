@@ -20,7 +20,7 @@ Our live infrastructure continuously tracks and updates more than:
 
 ### 🚀 Get Started
 - **API Documentation & Subscription:** [RapidAPI Hub](https://rapidapi.com/nivult-nivult-default/api/nivult-job-postings-company-data)
-- **Contact Support:** support@nivult.com
+- **Contact Support:** hello@nivult.com
 
 ---
 *If you are a data engineer, labor-market analyst, or HR tech builder looking for clean, normalized, and predictable job market JSON data, you are in the right place.*
